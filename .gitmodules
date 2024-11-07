@@ -1,0 +1,3 @@
+[submodule "example-graphrag"]
+	path = example-graphrag
+	url = https://github.com/yenslife/example-graphrag
